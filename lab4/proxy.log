@@ -1,0 +1,6 @@
+2024-11-23T19:54:41.880012900 - Method: POST | URL: http://www.example.com/
+2024-11-23T19:54:59.307964300 - Method: HEAD | URL: http://www.example.com/
+2024-11-23T19:55:16.556811600 - Method: GET | URL: http://www.example.com/
+2024-11-23T19:55:16.945675300 - Response cached for: http://www.example.com/
+2024-11-23T19:55:18.080673800 - Method: GET | URL: http://www.example.com/
+2024-11-23T19:55:18.080673800 - Cache hit for: http://www.example.com/
